@@ -2,6 +2,8 @@
 
 This is a simple web application, which is an online dictionary with the ability to supplement it, as well as check your knowledge.
 
+## [Live DEMO](https://vocabulary-54f8.vercel.app/).
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
