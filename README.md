@@ -4,6 +4,8 @@ This is a simple web application, which is an online dictionary with the ability
 
 ## [Live DEMO](https://vocabulary-54f8.vercel.app/).
 
+### [Lighthouse report](https://github.com/serhii-m/vocabulary/tree/main/public/images/lighthouse.png).
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
