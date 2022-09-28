@@ -2,9 +2,9 @@
 
 This is a simple web application, which is an online dictionary with the ability to supplement it, as well as check your knowledge.
 
-## [Live DEMO](https://vocabulary-54f8.vercel.app/).
+## [Live DEMO](https://vocabulary-54f8.vercel.app/)
 
-![Lighthouse report](https://github.com/serhii-m/vocabulary/raw/main/public/images/lighthouse.png).
+![Lighthouse report](https://github.com/serhii-m/vocabulary/raw/main/public/images/lighthouse.png)
 
 ## Getting Started with Create React App
 
